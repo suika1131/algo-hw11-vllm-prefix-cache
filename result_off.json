@@ -1,0 +1,14 @@
+{
+  "enable_prefix_caching": false,
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "n_prompts": 100,
+  "max_tokens": 64,
+  "elapsed_sec": 4.941876844000035,
+  "throughput_req_per_sec": 20.23522705172442,
+  "throughput_tok_per_sec": 17767.94581730766,
+  "input_tokens_total": 81407,
+  "output_tokens_total": 6400,
+  "input_tokens_per_prompt": 814,
+  "ttft_sec": null,
+  "e2e_sec": null
+}
